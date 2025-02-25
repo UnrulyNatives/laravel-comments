@@ -1,5 +1,5 @@
 {
-    "name": "beyondcode/laravel-comments",
+    "name": "unrulynatives/laravel-comments",
     "description": "Add comments to your Laravel application",
     "keywords": [
         "beyondcode",
@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "illuminate/support": "^10.0|^11.0"
+        "illuminate/support": "^10.0|^11.0|^12.0"
     },
     "require-dev": {
         "orchestra/testbench": "^3.6|^5.0|^6.0|^7.0|^8.0",
